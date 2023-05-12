@@ -7,4 +7,8 @@ public class ContactUsPageUtils {
     public void playZelda(){
         System.out.println("play Zelda");
     }
+
+    public void ugh(){
+        System.out.println("Ugh");
+    }
 }
